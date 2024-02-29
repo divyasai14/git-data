@@ -1,0 +1,1 @@
+read the data present in data file
